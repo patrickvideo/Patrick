@@ -1,0 +1,14 @@
+body{
+    margin:0;
+}
+img{
+
+    width:100vw;
+
+    height:auto;
+
+    object-fit:cover;
+
+    display:block;
+
+}
